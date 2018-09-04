@@ -9,3 +9,7 @@ Style name = "AppTheme" parent = "Base.Theme.AppCompat.Light.DarkActionBar" <- m
 
 
 https://developer.android.com/guide/topics/ui/custom-components
+
+https://developer.android.com/training/data-storage/room/
+
+https://developer.android.com/topic/libraries/architecture/viewmodel
