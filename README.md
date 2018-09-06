@@ -19,3 +19,6 @@ https://developer.android.com/topic/libraries/architecture/viewmodel
 https://proandroiddev.com/android-room-handling-relations-using-livedata-2d892e40bd53
 
 https://android.jlelse.eu/android-architecture-components-room-relationships-bf473510c14a
+
+
+Okay so I learned how to do relationships in Room but it's not neccessary for the purpose of this application, unless I want to save the levels to the disk at some point
