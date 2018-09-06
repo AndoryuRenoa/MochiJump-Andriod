@@ -17,3 +17,5 @@ https://developer.android.com/training/data-storage/room/
 https://developer.android.com/topic/libraries/architecture/viewmodel
 
 https://proandroiddev.com/android-room-handling-relations-using-livedata-2d892e40bd53
+
+https://android.jlelse.eu/android-architecture-components-room-relationships-bf473510c14a
