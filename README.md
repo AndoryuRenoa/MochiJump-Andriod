@@ -1,5 +1,7 @@
 # MochiJump-Andriod
 
+Note: Currently working on desktop app and web level editor app. Will come back to this project shortly
+
 
 Andriod port of MochiJump
 
